@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv /Users/yiyang/Desktop/Eddie/d_ai_projects/expense-tracker/CLAUDE.md /tmp/CLAUDE.md.bak)",
+      "Bash(npx create-next-app@latest /Users/yiyang/Desktop/Eddie/d_ai_projects/expense-tracker --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --yes)"
+    ]
+  }
+}
